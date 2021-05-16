@@ -8,5 +8,7 @@
 	<?php 
 		echo('Première Page du Projet');
 	?>
+	<h1>Un petit titre</h1>
+	<p>Un peu de texte</p>
 </body>
 </html>
